@@ -13,7 +13,7 @@
   a8 g f a g f e4 d2 a'
   b4 f'8 e d c aes4 g2. r4
   }>>
-  \bar |.
+  \bar "|."
   }
 
 \layout{}
