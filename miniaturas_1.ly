@@ -1,6 +1,7 @@
 % LilyBin
 
 \header { 
+  tittle = "Miniaturas"
   tagline = ""  % removed 
 } 
 
@@ -15,12 +16,12 @@
   page-count = #1
 } 
 
-#(set-global-staff-size 18) % TamaÃ±o de Pentagramas
+#(set-global-staff-size 18) % TamaÃÂ±o de Pentagramas
 
 \score{
 	{
 	    \omit Staff.TimeSignature % Esconde 
-	    \small % TamaÃ±o fuente notas \huge \large \normalsize \small \tiny \teeny
+	    \small % TamaÃÂ±o fuente notas \huge \large \normalsize \small \tiny \teeny
 	    \time 2/2
 	    \key f \major
 		\relative c' {
